@@ -1,0 +1,186 @@
+body{
+    background-color: grey;
+}
+
+.box1{
+    border: 9px solid red;
+    height: 168px;
+    width: 489px;
+    color: brown;
+    background-color: white;
+    border-radius: 17px;
+    text-align: center;
+    padding-top: -12px;
+    box-sizing: border-box;
+    margin-left: 528px;
+    font-size: small;
+    font-style: italic;
+    text-shadow: 2px 1px purple;
+    box-shadow: 8px 7px purple;
+    }
+
+#container{
+    border:8px solid green;
+    margin:0;
+    padding:0;
+    height:700px;
+    width: 1490px;
+}
+.container1{
+    border: 9px solid red;
+    height: 273px;
+    width: 292px;
+    color: black;
+    background-color: white;
+    border-radius: 17px;
+    text-align: center;
+    padding-top: -12px;
+    box-sizing: border-box;
+    margin-left: 4px;
+    font-size: small;
+    font-style: normal;
+    text-shadow: 2px 1px purple;
+    box-shadow: 8px 7px purple;
+}
+
+.container2{
+    border: 9px solid red;
+    height: 273px;
+    width: 292px;
+    color: black;
+    background-color: white;
+    border-radius: 17px;
+    text-align: center;
+    box-sizing: border-box;
+    margin-left: 1157px;
+    margin-top: -271px;
+    font-size: small;
+    font-style: normal;
+    text-shadow: 2px 1px purple;
+    box-shadow: 8px 7px purple;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.container3{
+    border: 9px solid red;
+    height: 273px;
+    width: 292px;
+    color: black;
+    background-color: white;
+    border-radius: 17px;
+    text-align: center;
+    padding-top: -12px;
+    box-sizing: border-box;
+    margin-top: 80px;
+    margin-left: 5px;
+    text-align: left;
+    font-size: small;
+    font-style: normal;
+    text-shadow: 2px 1px purple;
+    box-shadow: 8px 7px purple;
+}
+
+.container4{
+    border: 9px solid red;
+    height: 273px;
+    width: 292px;
+    color: black;
+    background-color: white;
+    border-radius: 17px;
+    text-align: center;
+    padding-top: -12px;
+    box-sizing: border-box;
+    margin-top: -251px;
+    margin-left: 1157px;
+    font-size: small;
+    font-style: normal;
+    text-shadow: 2px 1px purple;
+    box-shadow: 8px 7px purple;
+    
+}
+
+.btn-form{
+    border-radius: 10px;
+    width:80px;
+    background-color: red;
+    margin-left: 100px;
+    margin-top: -15px;
+    
+    
+}
+
+#container5{
+    border:8px solid purple;
+    background-color: green;
+    text-align: center;
+    margin-top: 200px;
+    height:680px;
+    width: 750px;
+    margin-left: 400px;
+    font-weight: lighter;
+}
+
+.box2{
+    text-align: center;
+    height: 258px;
+    width: 360px;
+    margin-left: 5px;
+    margin-top: 35px;
+   border:2px solid gray;
+    background-color: rgb(216, 207, 102);
+    font-style: italic;
+}
+.box3{
+    text-align: center;
+    height: 258px;
+    width: 360px;
+    margin-left: 382px;
+    margin-top: -261px;
+   border:2px solid gray;
+    background-color: rgb(216, 207, 102);
+    font-style: italic;
+}   
+.box4{
+    text-align: center;
+    height: 300px;
+    width:760px;
+    margin-top: 6px;
+    background-color: rgb(216, 207, 102);
+    font-style: italic;
+    border: 2px solid grey;
+}
+
+.container6{
+    border: 9px solid red;
+    height: 90px;
+    width: 500px;
+    color: brown;
+    font-style: italic;
+    background-color: yellowgreen;
+    border-radius: 17px;
+    text-align: center;
+    display: flex;
+    position: fixed;
+    align-content: center;
+    box-sizing: border-box;
+    margin-left: 500px;
+    margin-top: 23px;
+    font-size: small;
+    box-shadow: 8px 7px purple;
+    
+}
+.text1{
+    margin-left: 20px;
+    font-size: x-large;
+    font-weight: bolder;
+    margin-top: 4px;
+}
+.text2{
+    font-size: large;
+    margin-right: 20px;
+    font-weight: bolder;
+    margin-top: 6px;
+}
